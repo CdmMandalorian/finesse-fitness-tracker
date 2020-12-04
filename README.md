@@ -42,7 +42,6 @@ Contact me at: egalindounited@gmail.com
 <img src="./public/assets/img/finesseFitnessTrackerSS-2.png">
 <img src="./public/assets/img/finesseFitnessTrackerSS-3.png">
 <img src="./public/assets/img/finesseFitnessTrackerSS-4.png">
-<img src="./public/assets/img/finesseFitnessTrackerSS-5.png">
 
 ## LIVE VIDEO GIF's OF Finesse Fitness Tracker:
 <img src="./public/assets/img/finesseFitnessTrackerLive.gif">
